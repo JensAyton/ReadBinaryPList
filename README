@@ -1,0 +1,9 @@
+ReadBinaryPList
+
+Very-nearly-clean-room reader for Apple's binary property list format. The
+Cocotron's implementation is partially based on this.
+
+Not very useful in itself, since it duplicates system framework functionality,
+but a decent basis if you need to read binary plists on some other platform.
+
+MIT license.
